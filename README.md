@@ -1,10 +1,10 @@
 # HRM Data Analysis Dashboard
 
-This repository contains a Human Resource Management (HRM) data analysis dashboard created using PowerBI. The dashboard provides insights into various HR metrics and helps in making data-driven decisions.
+This repository contains a Halifax Regional Municipality (HRM) data analysis dashboard created using PowerBI. The dashboard provides insights into various HRM metrics and helps in making data-driven decisions.
 
 ## Dashboard Overview
 
-The dashboard consists of multiple screens, each focusing on different aspects of HR data. Below are the screenshots of the dashboard:
+The dashboard consists of multiple screens, each focusing on different aspects of HRM data. Below are the screenshots of the dashboard:
 
 ### Menu Page
 ![MenuPage.png](https://github.com/Kapadiatathya/HRM_Data_Analysis/blob/main/MenuPage.png)
