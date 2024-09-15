@@ -14,19 +14,19 @@ This is the main navigation page of the dashboard, allowing users to access diff
 ### Screen 1
 ![Screen 1](https://github.com/Kapadiatathya/HRM_Data_Analysis/blob/main/Screen1.png)
 
-This screen provides an overview of key HR metrics.
+This screen provides an overview of key HRM Enery Consumptions.
 
 ### Screen 2
 ![Screen 2](https://github.com/Kapadiatathya/HRM_Data_Analysis/blob/main/Screen2.png)
 
-This screen focuses on employee demographics and distribution.
+This screen focuses on Building demographics and distribution.
 
 ### Screen 3
 ![Screen3.png](https://github.com/Kapadiatathya/HRM_Data_Analysis/blob/main/Screen3.png)
 
-This screen analyzes employee performance and productivity metrics.
+This screen analyzes Building Permits and Construction trends.
 
 ### Screen 4
 ![Screen 4](https://github.com/Kapadiatathya/HRM_Data_Analysis/blob/main/Screen4.png)
 
-This screen presents insights on employee retention and turnover.
+This screen presents insights on Solar Energy Generation.
